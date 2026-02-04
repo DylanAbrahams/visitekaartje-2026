@@ -1,0 +1,8 @@
+body {
+    background:rgb(224, 255, 226);
+    color:rgb(0, 46, 9);
+}
+
+.loading {
+    color:red;
+}
